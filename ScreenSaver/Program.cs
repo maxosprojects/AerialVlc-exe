@@ -96,7 +96,9 @@ namespace Aerial
             {
                 if (System.Diagnostics.Process.GetCurrentProcess().MainModule.FileName.EndsWith("exe")) // treat like /w
                 {
-                    Application.Run(new ScreenSaverForm(WindowMode: true));
+                    //Application.Run(new ScreenSaverForm(WindowMode: true));
+                    ShowScreenSaver();
+                    Application.Run();
                 }
                 else // No arguments - treat like /c
                 {
@@ -147,12 +149,15 @@ namespace Aerial
                         new ScreenSaverForm(Screen.AllScreens.GetBounds(), shouldCache: true, showVideo: true).Show();
                         break;
                     }
-                case RegSettings.MultiMonitorModeEnum.MainOnly:
+                case RegSettings.MultiMonitorModeEnum.SecondaryOnly:
                 default:
                     {
                         foreach (var screen in Screen.AllScreens)
                         {
-                            new ScreenSaverForm(screen.Bounds, shouldCache: screen.Primary, showVideo: screen.Primary).Show();
+                            if (!screen.Primary)
+                            {
+                                new ScreenSaverForm(screen.Bounds, shouldCache: !screen.Primary, showVideo: !screen.Primary).Show();
+                            }
                         }
                         break;
                     }

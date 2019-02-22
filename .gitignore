@@ -274,3 +274,5 @@ _Pvt_Extensions
 .fake/
 .vs/ScreenSaver/v14/.suo
 *.suo
+
+.idea

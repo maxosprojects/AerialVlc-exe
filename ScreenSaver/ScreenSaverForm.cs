@@ -85,8 +85,8 @@ namespace ScreenSaver
             this.player.MouseDown += ScreenSaverForm_MouseDown;
             this.MouseDown += ScreenSaverForm_MouseDown;
 
-            this.player.MouseMove += ScreenSaverForm_MouseMove;
-            this.MouseMove += ScreenSaverForm_MouseMove;
+            //this.player.MouseMove += ScreenSaverForm_MouseMove;
+            //this.MouseMove += ScreenSaverForm_MouseMove;
 
             this.MouseClick += ScreenSaverForm_MouseClick;
             this.player.MouseClick += ScreenSaverForm_MouseClick;

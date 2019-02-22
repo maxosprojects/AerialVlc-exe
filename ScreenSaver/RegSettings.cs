@@ -7,12 +7,12 @@ namespace Aerial
 {
     public class RegSettings
     {
-        readonly string keyAddress = @"SOFTWARE\AerialScreenSaver";
+        readonly string keyAddress = @"SOFTWARE\AerialExe";
         [Obsolete("Replaced with MultiMonitorMode")]
         private bool DifferentMoviesOnDual = false;
         [Obsolete("Replaced with MultiMonitorMode")]
         private bool MultiscreenDisabled = true;
-        public MultiMonitorModeEnum MultiMonitorMode = RegSettings.MultiMonitorModeEnum.MainOnly;
+        public MultiMonitorModeEnum MultiMonitorMode = RegSettings.MultiMonitorModeEnum.SecondaryOnly;
         public bool UseTimeOfDay = true;
         public bool CacheVideos = true;
         public string CacheLocation = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "Aerial");
@@ -32,7 +32,7 @@ namespace Aerial
                 {
                     // load value from legacy settings
                     MultiMonitorMode =
-                        MultiscreenDisabled ? MultiMonitorModeEnum.MainOnly
+                        MultiscreenDisabled ? MultiMonitorModeEnum.SecondaryOnly
                         : DifferentMoviesOnDual ? MultiMonitorModeEnum.DifferentVideos : MultiMonitorModeEnum.SameOnEach;
                 }
 
@@ -66,8 +66,8 @@ namespace Aerial
 
         public enum MultiMonitorModeEnum
         {
-            [Description("Show on Main Screen only")]
-            MainOnly = 0,
+            [Description("Show on Secondary Screen only")]
+            SecondaryOnly = 0,
             [Description("Show same video on each screen")]
             SameOnEach = 1,
             [Description("Show different video on each screen")]
