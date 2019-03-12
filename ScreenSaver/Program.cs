@@ -64,26 +64,11 @@ namespace Aerial
                     settings.StartPosition = FormStartPosition.CenterScreen;
                     Application.Run(settings);
                 }
-                else if (firstArgument == "/p")      // Preview mode
+                else if (firstArgument == "/a")      // All displays
                 {
-                    Application.Exit();
-                    //if (secondArgument == null)
-                    //{
-                    //    MessageBox.Show("Sorry, but the expected window handle was not provided.",
-                    //        "ScreenSaver", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
-                    //    return;
-                    //}
-                    
-                    //IntPtr previewWndHandle = new IntPtr(long.Parse(secondArgument));
-                    //Application.Run(new ScreenSaverForm(previewWndHandle));
-                }
-                else if (firstArgument == "/s")      // Full-screen mode
-                {
+                    RegSettings.MultiMonitorModeOverrideDifferentVideos = true;
                     ShowScreenSaver();
                     Application.Run();
-                }  else if (firstArgument == "/w") // if executable, windowed mode.
-                {
-                    Application.Run(new ScreenSaverForm(WindowMode: true));
                 }
                 else    // Undefined argument
                 {

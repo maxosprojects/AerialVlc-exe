@@ -13,6 +13,7 @@ namespace Aerial
         [Obsolete("Replaced with MultiMonitorMode")]
         private bool MultiscreenDisabled = true;
         public MultiMonitorModeEnum MultiMonitorMode = RegSettings.MultiMonitorModeEnum.SecondaryOnly;
+        public static bool MultiMonitorModeOverrideDifferentVideos = false;
         public bool UseTimeOfDay = true;
         public bool CacheVideos = true;
         public string CacheLocation = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "Aerial");
@@ -34,6 +35,10 @@ namespace Aerial
                     MultiMonitorMode =
                         MultiscreenDisabled ? MultiMonitorModeEnum.SecondaryOnly
                         : DifferentMoviesOnDual ? MultiMonitorModeEnum.DifferentVideos : MultiMonitorModeEnum.SameOnEach;
+                }
+                if (MultiMonitorModeOverrideDifferentVideos)
+                {
+                    MultiMonitorMode = MultiMonitorModeEnum.DifferentVideos;
                 }
 
                 UseTimeOfDay = bool.Parse(key.GetValue(nameof(UseTimeOfDay)) as string ?? "True");
