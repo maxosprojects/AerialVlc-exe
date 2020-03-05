@@ -1,3 +1,5 @@
+using System;
+
 namespace ScreenSaver
 {
     partial class SettingsForm
@@ -188,6 +190,7 @@ namespace ScreenSaver
             this.player.VlcMediaplayerOptions = null;
             this.player.VlcLibDirectoryNeeded += new System.EventHandler<Vlc.DotNet.Forms.VlcLibDirectoryNeededEventArgs>(this.player_VlcLibDirectoryNeeded);
             this.player.EncounteredError += new System.EventHandler<Vlc.DotNet.Core.VlcMediaPlayerEncounteredErrorEventArgs>(this.player_EncounteredError);
+            this.player.Log += Player_Log;
             // 
             // pictureBox1
             // 
@@ -455,6 +458,11 @@ namespace ScreenSaver
             this.tabSource.PerformLayout();
             this.ResumeLayout(false);
 
+        }
+
+        private void Player_Log(object sender, Vlc.DotNet.Core.VlcMediaPlayerLogEventArgs e)
+        {
+            Console.WriteLine(e.Message);
         }
 
         #endregion
