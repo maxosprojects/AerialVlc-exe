@@ -57,7 +57,7 @@ namespace Aerial
                 }
                 else if (args.Length > 1)
                     secondArgument = args[1];
-                
+
                 if (firstArgument == "/c")           // Configuration mode
                 {
                     var settings = new SettingsForm();
@@ -68,6 +68,22 @@ namespace Aerial
                 {
                     RegSettings.MultiMonitorModeOverrideDifferentVideos = true;
                     ShowScreenSaver();
+                    Application.Run();
+                }
+                else if (firstArgument == "/s")      // Specific screen only
+                {
+                    if (secondArgument == null)
+                    {
+                        MessageBox.Show("Parameter /s requires a number");
+                        return;
+                    }
+                    long screenIndex = long.Parse(secondArgument);
+                    if (screenIndex > Screen.AllScreens.Length - 1)
+                    {
+                        MessageBox.Show("Provided screen index " + screenIndex + " exceeds number of screens [" + Screen.AllScreens.Length + "]");
+                        return;
+                    }
+                    ShowScreenSaver(screenIndex);
                     Application.Run();
                 }
                 else    // Undefined argument
@@ -114,7 +130,7 @@ namespace Aerial
         /// <summary>
         /// Display the form on each of the computer's monitors.
         /// </summary>
-        static void ShowScreenSaver()
+        static void ShowScreenSaver(long screenIndex = 0)
         {
             var multiMonitorMode = new RegSettings().MultiMonitorMode;
 
@@ -134,15 +150,17 @@ namespace Aerial
                         new ScreenSaverForm(Screen.AllScreens.GetBounds(), shouldCache: true, showVideo: true).Show();
                         break;
                     }
-                case RegSettings.MultiMonitorModeEnum.SecondaryOnly:
+                case RegSettings.MultiMonitorModeEnum.SpecificScreenOnly:
                 default:
                     {
+                        int currScreen = 0;
                         foreach (var screen in Screen.AllScreens)
                         {
-                            if (!screen.Primary)
+                            if (currScreen == screenIndex)
                             {
-                                new ScreenSaverForm(screen.Bounds, shouldCache: !screen.Primary, showVideo: !screen.Primary).Show();
+                                new ScreenSaverForm(screen.Bounds, shouldCache: true, showVideo: true).Show();
                             }
+                            currScreen++;
                         }
                         break;
                     }

@@ -12,7 +12,7 @@ namespace Aerial
         private bool DifferentMoviesOnDual = false;
         [Obsolete("Replaced with MultiMonitorMode")]
         private bool MultiscreenDisabled = true;
-        public MultiMonitorModeEnum MultiMonitorMode = RegSettings.MultiMonitorModeEnum.SecondaryOnly;
+        public MultiMonitorModeEnum MultiMonitorMode = RegSettings.MultiMonitorModeEnum.SpecificScreenOnly;
         public static bool MultiMonitorModeOverrideDifferentVideos = false;
         public bool UseTimeOfDay = true;
         public bool CacheVideos = true;
@@ -33,7 +33,7 @@ namespace Aerial
                 {
                     // load value from legacy settings
                     MultiMonitorMode =
-                        MultiscreenDisabled ? MultiMonitorModeEnum.SecondaryOnly
+                        MultiscreenDisabled ? MultiMonitorModeEnum.SpecificScreenOnly
                         : DifferentMoviesOnDual ? MultiMonitorModeEnum.DifferentVideos : MultiMonitorModeEnum.SameOnEach;
                 }
                 if (MultiMonitorModeOverrideDifferentVideos)
@@ -71,8 +71,8 @@ namespace Aerial
 
         public enum MultiMonitorModeEnum
         {
-            [Description("Show on Secondary Screen only")]
-            SecondaryOnly = 0,
+            [Description("Show on specific Screen only")]
+            SpecificScreenOnly = 0,
             [Description("Show same video on each screen")]
             SameOnEach = 1,
             [Description("Show different video on each screen")]
