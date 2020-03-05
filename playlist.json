@@ -1,0 +1,630 @@
+[
+  {
+    "id": "73F3F654-9EC5-4876-8BF6-474E22029A49",
+    "assets": [
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_GMT312_162NC_139M_1041_AFRICA_NIGHT_v14_SDR_FINAL_20180706_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Africa Night",
+        "type": "video",
+        "id": "9c6b969b62012359e5a4ead2ba3889e8",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_A103_C002_0205DG_v12_SDR_FINAL_20180706_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Africa and the Middle East",
+        "type": "video",
+        "id": "46ed793647394d735ff16081f77c5c56",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/g201_AK_A003_C014_SDR_20191113_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Alaskan Jellies",
+        "type": "video",
+        "id": "6ca7ae63e963021b850332a57263f874",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/AK_A004_C012_SDR_20191217_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Alaskan Jellies",
+        "type": "video",
+        "id": "f450f302ce65238bb9e9d62560810fee",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_GMT110_112NC_364D_1054_AURORA_ANTARTICA__COMP_FINAL_v34_PS_SDR_20181107_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Antarctica",
+        "type": "video",
+        "id": "c1a1afd8e790d335facf340d6bdea756",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_A001_C001_120530_v04_SDR_FINAL_20180706_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Atlantic Ocean to Spain and France",
+        "type": "video",
+        "id": "906ab6011a4a334389136b4b1941712f",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_GMT060_117NC_363D_1034_AUSTRALIA_v35_SDR_PS_FINAL_20180731_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Australia",
+        "type": "video",
+        "id": "9dba81a7d16d5f081ae79412dcb2b835",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/BO_A018_C029_SDR_20190812_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Barracuda",
+        "type": "video",
+        "id": "cb4d1f59c9e89c28784bc2aed1da8ca8",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/BO_A014_C008_SDR_20190719_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Bumpheads",
+        "type": "video",
+        "id": "a1240be2b2b1c0d9b20b0d7206a7c8ba",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/DL_B002_C011_SDR_20191122_SDR_2K_AVC.mov",
+        "accessibilityLabel": "California Dolphins",
+        "type": "video",
+        "id": "32af731493633ce8d0c4c7a6f2ebdfe3",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/g201_CA_A016_C002_SDR_20191114_SDR_2K_AVC.mov",
+        "accessibilityLabel": "California Kelp Forest",
+        "type": "video",
+        "id": "246c2d26af9429b46eb0f9c58e03b79b",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_GMT306_139NC_139J_3066_CALI_TO_VEGAS_v08_SDR_PS_20180824_SDR_2K_AVC.mov",
+        "accessibilityLabel": "California to Vegas",
+        "type": "video",
+        "id": "de88c100f31fae537a053e1a9a5535be",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_A105_C002_v06_SDR_FINAL_25062018_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Caribbean",
+        "type": "video",
+        "id": "26eac3ad7d7aaa461e1ccf9ac01c9010",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_A108_C001_v09_SDR_FINAL_22062018_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Caribbean",
+        "type": "video",
+        "id": "e1d976ec34b65a1955eb9bbe1b51085c",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_GMT308_139K_142NC_CARIBBEAN_DAY_v09_SDR_FINAL_22062018_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Caribbean Day",
+        "type": "video",
+        "id": "ae3a3cc650f2f4b6657862d0819fae6a",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_CH_C002_C005_PSNK_v05_SDR_PS_FINAL_20180709_SDR_2K_AVC.mov",
+        "accessibilityLabel": "China",
+        "type": "video",
+        "id": "d44796af80235543b256d098d42a0135",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_CH_C007_C004_PSNK_v02_SDR_PS_FINAL_20180709_SDR_2K_AVC.mov",
+        "accessibilityLabel": "China",
+        "type": "video",
+        "id": "a1dd1a05201feca981a98eab6f4d2386",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_C003_C003_PS_v01_SDR_PS_20180925_SDR_2K_AVC.mov",
+        "accessibilityLabel": "China",
+        "type": "video",
+        "id": "5af970ae839b1fdbe9a3700c29c87c50",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_GMT329_113NC_396B_1105_CHINA_v04_SDR_FINAL_20180706_F900F2700_SDR_2K_AVC.mov",
+        "accessibilityLabel": "China",
+        "type": "video",
+        "id": "a348e69e731311d4be0bc4db4bd7417d",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_CH_C007_C011_PSNK_v02_SDR_PS_FINAL_20180709_SDR_2K_AVC.mov",
+        "accessibilityLabel": "China",
+        "type": "video",
+        "id": "ceaa79f391bdd6326c3957bb1a89b4a3",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_C001_C005_PS_v01_SDR_PS_20180925_SDR_2K_AVC.mov",
+        "accessibilityLabel": "China",
+        "type": "video",
+        "id": "7069849c5e6ab0283a2457ef52ff802c",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_C004_C003_PS_v01_SDR_PS_20180925_SDR_2K_AVC.mov",
+        "accessibilityLabel": "China",
+        "type": "video",
+        "id": "2778060c796023aa43990d53c9ec72c0",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/CR_A009_C007_SDR_20191113_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Costa Rica Dolphins",
+        "type": "video",
+        "id": "f74fc421dd6a978fef2ac7ac2ccd5872",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/MEX_A006_C008_SDR_20190923_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Cownose Rays",
+        "type": "video",
+        "id": "e5a9d80b696f0353fa8eee1cf7b2fd45",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_DB_D011_C010_PSNK_DENOISE_v19_SDR_PS_20180914_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Dubai",
+        "type": "video",
+        "id": "b07cfe1d892930fcb8577321c29e5860",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_DB_D008_C010_PSNK_v21_SDR_PS_20180914_F0F16157_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Dubai",
+        "type": "video",
+        "id": "5de6b08bcc6a888a5c7375d99962d3bf",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_DB_D002_C003_PSNK_v04_SDR_PS_20180914_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Dubai",
+        "type": "video",
+        "id": "066681bf63cee45e141fd47723e88011",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_DB_D001_C001_PSNK_v06_SDR_PS_20180824_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Dubai",
+        "type": "video",
+        "id": "b3cfc5a34d91a1416b9b45b140749333",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_DB_D001_C005_COMP_PSNK_v12_SDR_PS_20180912_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Dubai",
+        "type": "video",
+        "id": "4e67172d4c459bf59a58d58c19537c9d",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/FK_U009_C004_SDR_20191220_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Gray Reef Sharks",
+        "type": "video",
+        "id": "d3d20ac39a777a3c5f7fece6742d69ab",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_GL_G002_C002_PSNK_v03_SDR_PS_20180925_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Greenland",
+        "type": "video",
+        "id": "4daac3c2bb6863a9d818be3377708553",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_GL_G004_C010_PSNK_v04_SDR_PS_FINAL_20180709_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Greenland",
+        "type": "video",
+        "id": "aa408ac5607714cb129c191d97242f00",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_GL_G010_C006_PSNK_NOSUN_v12_SDR_PS_FINAL_20180709_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Greenland",
+        "type": "video",
+        "id": "fca3a0b6b1f98af537fa64f6ec8d8c3c",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_H004_C009_PS_v01_SDR_PS_20180925_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Hawaii",
+        "type": "video",
+        "id": "a61c523041fcd7c88617eb86475148d3",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_H012_C009_PS_v01_SDR_PS_20180925_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Hawaii",
+        "type": "video",
+        "id": "2b076b95a111c98022943bc330346137",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_H005_C012_PS_v01_SDR_PS_20180925_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Hawaii",
+        "type": "video",
+        "id": "699e17aeabba6f013cf5f9d92cdf2e89",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_H004_C007_PS_v02_SDR_PS_20180925_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Hawaii",
+        "type": "video",
+        "id": "995a0471319c387c36c0faf58929084d",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_H007_C003_PS_v01_SDR_PS_20180925_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Hawaii",
+        "type": "video",
+        "id": "5a0745b9f8e451e21fabe93e4463cc76",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_HK_B005_C011_PSNK_v16_SDR_PS_20180914_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Hong Kong",
+        "type": "video",
+        "id": "5205c912b49f0b703b1ccacca561e65a",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_HK_H004_C010_PSNK_v08_SDR_PS_20181009_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Hong Kong",
+        "type": "video",
+        "id": "099eac0edb3b0aa1e410c272e5de6d0c",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_HK_H004_C013_t9_6M_HB_tag0.mov",
+        "accessibilityLabel": "Hong Kong",
+        "type": "video",
+        "id": "5bdb46d44ffb678412058cbcab567244",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_HK_H004_C008_PSNK_v19_SDR_PS_20180914_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Hong Kong",
+        "type": "video",
+        "id": "5deef5ff191eaa30444251ac9e7c2a4d",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/g201_WH_D004_L014_SDR_20191031_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Humpback Whale",
+        "type": "video",
+        "id": "8a5f2d342ab0e8ae2ee7c8b59d9437bc",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_A083_C002_1130KZ_v04_SDR_PS_FINAL_20180725_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Iran and Afghanistan",
+        "type": "video",
+        "id": "625b9e858e514656e250779c57733560",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_GMT329_117NC_401C_1037_IRELAND_TO_ASIA_v48_SDR_PS_FINAL_20180725_F0F6300_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Ireland to Asia",
+        "type": "video",
+        "id": "9b089755436446be0cd9381edde3b94b",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_GMT329_113NC_396B_1105_ITALY_v03_SDR_FINAL_20180706_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Italy to Asia",
+        "type": "video",
+        "id": "8d6fc894c058b37e0c8f4bbe6243c4e7",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/BO_A014_C023_SDR_20190717_F240F3709_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Jacks",
+        "type": "video",
+        "id": "6168392b4c0f72466a316b67cc3cdcc1",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/KP_A010_C002_SDR_20190717_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Kelp",
+        "type": "video",
+        "id": "0b521b3604453d6ffff96e98bbc6a7c6",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_GMT026_363A_103NC_E1027_KOREA_JAPAN_NIGHT_v18_SDR_PS_20180907_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Korean and Japan Night",
+        "type": "video",
+        "id": "c07ad529f26a05ed966d2a8ac66a612e",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_LW_L001_C003__PSNK_DENOISE_v04_SDR_PS_FINAL_20180803_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Liwa",
+        "type": "video",
+        "id": "7f06d99442705e26ebf3198f660a8203",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_LW_L001_C006_PSNK_DENOISE_v02_SDR_PS_FINAL_20180709_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Liwa",
+        "type": "video",
+        "id": "c06f249dcbd064f1f16a9c702a328464",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_L007_C007_PS_v01_SDR_PS_20180925_SDR_2K_AVC.mov",
+        "accessibilityLabel": "London",
+        "type": "video",
+        "id": "6af63c26642d6a0ca0e1e0add6d5eb9c",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_L012_c002_PS_v01_SDR_PS_20180925_SDR_2K_AVC.mov",
+        "accessibilityLabel": "London",
+        "type": "video",
+        "id": "b35b74a91fdd7160546561b2c615dd25",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_L010_C006_PS_v01_SDR_PS_20180925_SDR_2K_AVC.mov",
+        "accessibilityLabel": "London",
+        "type": "video",
+        "id": "17823748bc1859b529c2077eed0bccbe",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_L004_C011_PS_v01_SDR_PS_20180925_SDR_2K_AVC.mov",
+        "accessibilityLabel": "London",
+        "type": "video",
+        "id": "515b4990fcb8676078d61d8a0461ecab",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_LA_A008_C004_ALTB_ED_FROM_FLAME_RETIME_v46_SDR_PS_20180917_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Los Angeles",
+        "type": "video",
+        "id": "ed5a75694bb8bd7289e70790c2043a09",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_LA_A005_C009_PSNK_ALT_v09_SDR_PS_201809134_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Los Angeles",
+        "type": "video",
+        "id": "1b9d06eec809beafde77c5115755995d",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_LA_A011_C003_DGRN_LNFIX_STAB_v57_SDR_PS_20181002_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Los Angeles",
+        "type": "video",
+        "id": "3add09ad5cff4fd27764333ed07d08cd",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_LA_A006_C008_PSNK_ALL_LOGOS_v10_SDR_PS_FINAL_20180801_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Los Angeles",
+        "type": "video",
+        "id": "39996246a14288408e511017af473c30",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_LA_A006_C004_v01_SDR_FINAL_PS_20180730_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Los Angeles",
+        "type": "video",
+        "id": "7ee9b621200927afc7b7e4069ac62adc",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_LA_A009_C009_PSNK_v02_SDR_PS_FINAL_20180709_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Los Angeles",
+        "type": "video",
+        "id": "3023ca1372f96f8dfe68b07fcc0459ad",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_N013_C004_PS_v01_SDR_PS_20180925_F1970F7193_SDR_2K_AVC.mov",
+        "accessibilityLabel": "New York",
+        "type": "video",
+        "id": "ad00e615c279f1a65d07e2b87224f276",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_N008_C009_PS_v01_SDR_PS_20180925_SDR_2K_AVC.mov",
+        "accessibilityLabel": "New York",
+        "type": "video",
+        "id": "21b925d1b5ac15f815f5cb419c13671e",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_N008_C003_PS_v01_SDR_PS_20180925_SDR_2K_AVC.mov",
+        "accessibilityLabel": "New York",
+        "type": "video",
+        "id": "c2e38a724d22971f4049f98c17aa2be6",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_N003_C006_PS_v01_SDR_PS_20180925_SDR_2K_AVC.mov",
+        "accessibilityLabel": "New York",
+        "type": "video",
+        "id": "79a59436bfd0e2089f84c4d198e47a07",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_GMT307_136NC_134K_8277_NY_NIGHT_01_v25_SDR_PS_20180907_SDR_2K_AVC.mov",
+        "accessibilityLabel": "New York Night",
+        "type": "video",
+        "id": "1619d03262f97f5af6930dcf9d9ca00f",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_A105_C003_0212CT_FLARE_v10_SDR_PS_FINAL_20180711_SDR_2K_AVC.mov",
+        "accessibilityLabel": "New Zealand",
+        "type": "video",
+        "id": "c0888841576798f8f4c4323489b24fdc",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_A050_C004_1027V8_v16_SDR_FINAL_20180706_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Nile Delta",
+        "type": "video",
+        "id": "e75fa4ce6c085c168eedc4c77b3d7189",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_GMT314_139M_170NC_NORTH_AMERICA_AURORA__COMP_v22_SDR_20181206_v12CC_SDR_2K_AVC.mov",
+        "accessibilityLabel": "North America Aurora",
+        "type": "video",
+        "id": "c57ce798c177b6bd20c327607a3692c1",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/PA_A004_C003_SDR_20190719_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Palau Coral",
+        "type": "video",
+        "id": "d6d0760b74f8d8cb06e9f6c7e64fb2fa",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/PA_A001_C007_SDR_20190717_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Palau Jellies",
+        "type": "video",
+        "id": "f658b092b14b8615018663757ae308f4",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/PA_A002_C009_SDR_20190730_ALT01_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Palau Jellies",
+        "type": "video",
+        "id": "f7861a2313a2cc9d2bb8e90f92b7653b",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/PA_A010_C007_SDR_20190717_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Palau Jellies",
+        "type": "video",
+        "id": "e007a22bddd19b1332d1377ccf5b1aa8",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/RS_A008_C010_SDR_20191218_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Red Sea Coral",
+        "type": "video",
+        "id": "251b407eaae637039921b81c1d7d50d7",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_A009_C001_010181A_v09_SDR_PS_FINAL_20180725_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Sahara and Italy",
+        "type": "video",
+        "id": "3415faf2dc0146891aeec90142de7ff1",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_A013_C012_0122D6_CC_v01_SDR_PS_FINAL_20180709_SDR_2K_AVC.mov",
+        "accessibilityLabel": "San Francisco",
+        "type": "video",
+        "id": "56bb8fe8a04d8070ea20a03346e69dae",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_A015_C018_0128ZS_v03_SDR_PS_FINAL_20180709__SDR_2K_AVC.mov",
+        "accessibilityLabel": "San Francisco",
+        "type": "video",
+        "id": "1b8f26b7d957dd07706db7718ae69bdc",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_A006_C003_1219EE_CC_v01_SDR_PS_FINAL_20180709_SDR_2K_AVC.mov",
+        "accessibilityLabel": "San Francisco",
+        "type": "video",
+        "id": "a1d656c3cb1c792df9c7c9e3a29bf044",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_1223LV_FLARE_v21_SDR_PS_FINAL_20180709_F0F5700_SDR_2K_AVC.mov",
+        "accessibilityLabel": "San Francisco",
+        "type": "video",
+        "id": "41874580edf050fa427749dc78edbcae",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_A008_C007_011550_CC_v01_SDR_PS_FINAL_20180709_SDR_2K_AVC.mov",
+        "accessibilityLabel": "San Francisco",
+        "type": "video",
+        "id": "b0a6852cfb2328a0c4b2998eb5bdf737",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_A012_C014_1223PT_v53_SDR_PS_FINAL_20180709_F0F8700_SDR_2K_AVC.mov",
+        "accessibilityLabel": "San Francisco",
+        "type": "video",
+        "id": "6c1c29d30963c8865b31a9d1b4882aad",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_A007_C017_01156B_v02_SDR_PS_20180925_SDR_2K_AVC.mov",
+        "accessibilityLabel": "San Francisco",
+        "type": "video",
+        "id": "0b63a630968fd9955bcab4a2328fcdb7",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/BO_A012_C031_SDR_20190726_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Sea Stars",
+        "type": "video",
+        "id": "51d885c6900e3891fd23cca3122902ca",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/SE_A016_C009_SDR_20190717_3m30s_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Seals",
+        "type": "video",
+        "id": "e5ddae8aecc1da632c9dc2db0704fe57",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_A351_C001_v06_SDR_PS_20180725_SDR_2K_AVC.mov",
+        "accessibilityLabel": "South Africa to North Asia",
+        "type": "video",
+        "id": "d370ea98943cf2da35e856f28e2b26ab",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_A114_C001_0305OT_v10_SDR_FINAL_22062018_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Southern California to Baja",
+        "type": "video",
+        "id": "5bed79de0f2c64c88b6c0326f6128a5b",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/g201_TH_803_A001_8_SDR_20191031_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Tahiti Waves",
+        "type": "video",
+        "id": "f69bf2cc82ac4de54db8f639106a0841",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/g201_TH_804_A001_8_SDR_20191031_SDR_2K_AVC.mov",
+        "accessibilityLabel": "Tahiti Waves",
+        "type": "video",
+        "id": "252bfd3f6df7ca3ecc4a68812aa4a270",
+        "timeOfDay": "day"
+      },
+      {
+        "url": "https://sylvan.apple.com/Videos/comp_A001_C004_1207W5_v23_SDR_FINAL_20180706_SDR_2K_AVC.mov",
+        "accessibilityLabel": "West Africa to the Alps",
+        "type": "video",
+        "id": "bba6ca8b848af9288ffc474641792b99",
+        "timeOfDay": "day"
+      }
+    ]
+  }
+]
